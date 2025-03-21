@@ -9,6 +9,7 @@ Licensed is **not** a complete open source license compliance solution. Please u
 ## Current Status
 
 ![Build status](https://github.com/github/licensed/workflows/Test/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Flicensed.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Flicensed?ref=badge_shield)
 
 Licensed is in active development and currently used at GitHub.  See the [open issues](https://github.com/github/licensed/issues) for a list of potential work.
 
@@ -18,6 +19,9 @@ Licensed v2 includes many internal changes intended to make licensed more extens
 
 See [CHANGELOG.md](./CHANGELOG.md) for more details on what's changed.
 See the [migration documentation](./docs/migrating_to_newer_versions.md) for more info on migrating to v2, or run `licensed help migrate`.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Flicensed.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Flicensed?ref=badge_large)
 
 ## Installation
 
